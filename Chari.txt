@@ -2,8 +2,5 @@ Jayachandra Achari
 Hyderabad
 Iam working for LTTS
 Chennai Location
-<<<<<<< HEAD
 Madiwala Room
-=======
 Living in Bangalore
->>>>>>> refs/remotes/origin/main
